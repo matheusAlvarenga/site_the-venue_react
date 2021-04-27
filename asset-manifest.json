@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/site_the-venue_react/static/css/main.39eb79c7.chunk.css",
+    "main.js": "/site_the-venue_react/static/js/main.6602c63e.chunk.js",
+    "main.js.map": "/site_the-venue_react/static/js/main.6602c63e.chunk.js.map",
+    "runtime-main.js": "/site_the-venue_react/static/js/runtime-main.d160ccb0.js",
+    "runtime-main.js.map": "/site_the-venue_react/static/js/runtime-main.d160ccb0.js.map",
+    "static/css/2.98e83e2a.chunk.css": "/site_the-venue_react/static/css/2.98e83e2a.chunk.css",
+    "static/js/2.cefccb15.chunk.js": "/site_the-venue_react/static/js/2.cefccb15.chunk.js",
+    "static/js/2.cefccb15.chunk.js.map": "/site_the-venue_react/static/js/2.cefccb15.chunk.js.map",
+    "index.html": "/site_the-venue_react/index.html",
+    "static/css/2.98e83e2a.chunk.css.map": "/site_the-venue_react/static/css/2.98e83e2a.chunk.css.map",
+    "static/css/main.39eb79c7.chunk.css.map": "/site_the-venue_react/static/css/main.39eb79c7.chunk.css.map",
+    "static/js/2.cefccb15.chunk.js.LICENSE.txt": "/site_the-venue_react/static/js/2.cefccb15.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/site_the-venue_react/static/media/slick.c94f7671.ttf",
+    "static/media/slide_one.c0549cdc.jpg": "/site_the-venue_react/static/media/slide_one.c0549cdc.jpg",
+    "static/media/slide_three.89588034.jpg": "/site_the-venue_react/static/media/slide_three.89588034.jpg",
+    "static/media/slide_two.13a6beb9.jpg": "/site_the-venue_react/static/media/slide_two.13a6beb9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d160ccb0.js",
+    "static/css/2.98e83e2a.chunk.css",
+    "static/js/2.cefccb15.chunk.js",
+    "static/css/main.39eb79c7.chunk.css",
+    "static/js/main.6602c63e.chunk.js"
+  ]
+}
